@@ -22,7 +22,7 @@
 			<key>ProxyPACFallbackAllowed</key>
 			<false/>
 			<key>ProxyPACURL</key>
-			<string>https://raw.githubusercontent.com/essandess/easylist-pac-privoxy/master/proxy.pac</string>
+			<string>https://raw.githubusercontent.com/messagehome/easylist-pac-privoxy/master/easylist_pac.py</string>
 			<key>ProxyType</key>
 			<string>Auto</string>
 		</dict>
